@@ -42,4 +42,6 @@ pull request in github löst merge in git aus
 LGTM = Looks good to me
 
 Die History mit allen Branches in der Command Line visualisieren:
-git log --graph --decorate --oneline 
+git log --graph --decorate --oneline
+
+fork: Legt Kopie von aktuellem branch eines anderen Repos auf github ab um daran zu arbeiten und es als pull request zurück zu spielen
