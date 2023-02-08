@@ -32,3 +32,11 @@ git branch -D xyz: Branch-Label lokal löschen (nicht so wichtig, da es kaum Res
 git fetch --all: zeigt alle Neuigkeiten, auch neue Branches an // git branch -a: zeigt auch remote branches an, die noch nicht lokal gepulled wurden
 
 git add -A: alles adden
+
+More infos:
+
+"--set upstream" Abkürzung für "-u"
+
+pull request in github löst merge in git aus
+
+LGTM = Looks good to me
