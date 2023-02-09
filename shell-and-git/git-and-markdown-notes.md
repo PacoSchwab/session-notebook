@@ -15,6 +15,7 @@ Datei erstellen und direkt beschriften: echo "abcde" >> testdatei.md (>> um Text
 git remote set-url origin git@github.com:{USERNAME}/{PROJECTNAME}.git um http zu ssh zu ändern
 
 "open ." Datei im Finder öffnen
+"code .": in VS Code öffnen
 
 git switch -c xyz: neuen Branch erstellen (c = create)
 git switch main: zurück zum main branch
