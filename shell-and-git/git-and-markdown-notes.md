@@ -46,3 +46,5 @@ Die History mit allen Branches in der Command Line visualisieren:
 git log --graph --decorate --oneline
 
 fork: Legt Kopie von aktuellem branch eines anderen Repos auf github ab um daran zu arbeiten und es als pull request zurück zu spielen
+
+git restore . / git restore <filename>: lokal alles zurücksetzen zum aktuell auf github vorhandenen stand

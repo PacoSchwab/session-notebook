@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.article {
+  border-radius: 10px;
+  background-color: white;
+  margin: 5px;
+  padding: 20px;
+}
+
+.picbox {
+  border-radius: 10px;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+button {
+  color: blue;
+  border: none;
+  background-color: white;
+}
+
+.account {
+  color: lightgray;
+  margin-bottom: 0px;
+}
